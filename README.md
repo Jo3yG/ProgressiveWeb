@@ -11,9 +11,7 @@ DEPLOY on localhost:3000
 We are building a text editor that runs in the browser as of right now on localhost:3000 as my Heroku wont run for some reason. 
 We are starting with an existing application and are developing ways to recieve and store data to an a database. 
 
-You will deploy this full-stack application to Render using the [Render Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide).
 
-**Important**: Make sure your submission includes the `.npmrc` file in this starter code.  This will ensure your application will deploy properly to Render.
 
 ## User Story
 
