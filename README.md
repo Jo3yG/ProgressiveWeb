@@ -1,13 +1,15 @@
 # ProgressiveWeb
 # 19 Progressive Web Applications (PWA): Text Editor
+## Github
+https://github.com/Jo3yG/ProgressiveWeb.git
+
+DEPLOY on localhost:3000
+
+(my heroku is not working)
 
 ## Your Task
-
-As you have progressed through this course, you have put together a number of impressive projects that you can show off to potential employers. This project is no exception; in fact, it features some of the most impressive expressions of the concepts you have learned so far.
-
-Your task is to build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline.
-
-To build this text editor, you will start with an existing application and implement methods for getting and storing data to an IndexedDB database. You will use a package called `idb`, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
+We are building a text editor that runs in the browser as of right now on localhost:3000 as my Heroku wont run for some reason. 
+We are starting with an existing application and are developing ways to recieve and store data to an a database. 
 
 You will deploy this full-stack application to Render using the [Render Deployment Guide on The Full-Stack Blog](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide).
 
