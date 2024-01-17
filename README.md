@@ -1,6 +1,12 @@
 # ProgressiveWeb
 # 19 Progressive Web Applications (PWA): Text Editor
+
+## Video
+
+https://drive.google.com/file/d/1rViWK7Xh4YiLBQDn2zEW74u-n_WNHGBo/view
+
 ## Github
+
 https://github.com/Jo3yG/ProgressiveWeb.git
 
 DEPLOY on localhost:3000
